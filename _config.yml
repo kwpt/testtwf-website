@@ -946,17 +946,17 @@ people: [
    },
    {
       "name": "Sungmin Jang",
-      "about": "JOBKOREA/Korea Web Accessibility Group",
+      "about": "JOBKOREA, Korea Web Accessibility Group",
       "pic": "/assets/experts/sungmin_jang.jpg"
    },
    {
       "name": "Hyunjin Cho",
-      "about": "ACG/Korea Web Accessibility Group",
+      "about": "ACG, Korea Web Accessibility Group",
       "pic": "/assets/experts/hyunjin_cho.jpg"
    },
    {
       "name": "Jungyun Kim",
-      "about": "SK Comms/Korea Web Accessibility Group",
+      "about": "SK Comms, Korea Web Accessibility Group",
       "pic": "/assets/experts/jungyun_kim.jpg"
    }
 ]
