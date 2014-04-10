@@ -528,6 +528,11 @@ people: [
       "pic": "/assets/experts/seungyun_lee.jpg"
   },
   {
+      "name": "Shadi Abou-Zahra",
+      "about": "W3C, WAI International Program Office",
+      "pic": "/assets/experts/shadi_abou_zahra.jpg"
+  },
+  {
       "name": "Shigeo Okamoto",
       "about": "Deputy Director, Standardization Division, Ministry of Internal Affairs and Communications",
       "pic": "/assets/experts/okamoto.jpg"
